@@ -1,0 +1,7 @@
+{
+  "template": "rails",
+  "ports": [3000],
+  "name": "Publify",
+  "logo": "",
+  "description": "A self hosted Web publishing platform on Rails."
+}
