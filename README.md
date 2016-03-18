@@ -74,11 +74,12 @@ $ rails server
 You can now launch you browser and access 127.0.0.1:3000.
 
 ## Nitrous Quickstart
-You can quickly create a publify dev environment in the cloud on www.nitrous.io:
 
-![Nitrous Quickstart](https://nitrous-image-icons.s3.amazonaws.com/quickstart.svg)](https://www.nitrous.io/quickstart)
+If you don't want to setup anything on your personal machine, you can quickly create a publify dev environment in the cloud on www.nitrous.io:
 
-Simply run `./start-app` or `rails s` from the terminal inside of `~/code/publify/` and access your site via the "Preview > 3000" link in the IDE. 
+![Nitrous Quickstart](https://nitrous-image-icons.s3.amazonaws.com/quickstart.svg)(https://www.nitrous.io/quickstart)
+
+Simply run `./start-app` or `rails s` from the terminal inside of `~/code/publify/` and access your site via the "Preview > 3000" link in the IDE.
 
 ## Install Publify on Heroku
 
